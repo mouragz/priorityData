@@ -1,13 +1,13 @@
 {
   "priority": [
     {
-      "Line": "1"
+      "1": "Line"
     },
     {
-      "Doughnut": "2"
+      "2": "Doughnut"
     },
     {
-      "Bar": "3"
+      "3": "Bar"
     }
   ]
 }
