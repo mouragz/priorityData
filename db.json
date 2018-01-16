@@ -1,12 +1,8 @@
 {
   "priority": [
     {
-      "1": "Line"
-    },
-    {
-      "2": "Doughnut"
-    },
-    {
+      "1": "Line",
+      "2": "Doughnut",
       "3": "Bar"
     }
   ]
